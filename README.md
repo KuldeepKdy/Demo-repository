@@ -1,3 +1,4 @@
 # Demo-repository
+
 This is my first Git Repository.
-Author - Kuldeep
+Author - Kuldeep Yadav
